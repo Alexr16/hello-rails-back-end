@@ -8,7 +8,7 @@
 > This exercise is going to have you create a React front-end with a Rails back-end and connect them to display a random message.
 
 ## React App
-- [React](hhttps://github.com/Alexr16/hello-react-front-end)
+- [React](https://github.com/Alexr16/hello-react-front-end)
 
 ## Getting Started
 
