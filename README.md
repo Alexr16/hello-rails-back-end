@@ -43,8 +43,6 @@ $   rails db:migrate
 
 ```bash
 $   bundle install
-# $   yarn install
-# $   npm install
 ```
 
 ### Starting up the Web Server
